@@ -20,7 +20,6 @@
 - [ ]  < Feature 3 >
 - [ ]  < Feature 4 >
 
-<br>
 
 ## Dependencies
  - < Dependancy 1 >
