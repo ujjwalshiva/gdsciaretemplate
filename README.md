@@ -10,7 +10,7 @@
 <br>
     
 
-[![Status](https://img.shields.io/website?down_message=lightgrey&label=Status&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fgdsc.community.dev%2Finstitute-of-aeronautical-engineering-hyderabad%2F)](https://github.com/gdsciare)
+[![Status](https://img.shields.io/website?down_message=lightgrey&label=Project%20Status&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fgdsc.community.dev%2Finstitute-of-aeronautical-engineering-hyderabad%2F)](https://github.com/gdsciare)
 
 [![Join Us](https://img.shields.io/badge/Join%20Community-GDSC%20IARE-blue?style=for-the-badge)](https://gdsc.community.dev/institute-of-aeronautical-engineering-hyderabad/)
 
